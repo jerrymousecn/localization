@@ -13,3 +13,6 @@ E:\VS\localization\localization2\obj\Debug\en-US\localization2.resources.dll
 E:\VS\localization\localization2\obj\Debug\zh-CN\localization2.resources.dll
 E:\VS\localization\localization2\obj\Debug\localization2.exe
 E:\VS\localization\localization2\obj\Debug\localization2.pdb
+E:\git\localization\source\localization2\bin\Debug\localization2.exe.config
+E:\git\localization\source\localization2\obj\Debug\localization2.exe
+E:\git\localization\source\localization2\obj\Debug\localization2.pdb
