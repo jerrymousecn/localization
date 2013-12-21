@@ -1,0 +1,15 @@
+E:\VS\localization\localization2\bin\Debug\localization2.exe.config
+E:\VS\localization\localization2\bin\Debug\localization2.exe
+E:\VS\localization\localization2\bin\Debug\localization2.pdb
+E:\VS\localization\localization2\bin\Debug\en-US\localization2.resources.dll
+E:\VS\localization\localization2\bin\Debug\zh-CN\localization2.resources.dll
+E:\VS\localization\localization2\obj\Debug\localization2.csprojResolveAssemblyReference.cache
+E:\VS\localization\localization2\obj\Debug\localization2.Form1.resources
+E:\VS\localization\localization2\obj\Debug\localization2.Properties.Resources.resources
+E:\VS\localization\localization2\obj\Debug\localization2.Resource.en-US.resources
+E:\VS\localization\localization2\obj\Debug\localization2.Resource.zh-CN.resources
+E:\VS\localization\localization2\obj\Debug\localization2.csproj.GenerateResource.Cache
+E:\VS\localization\localization2\obj\Debug\en-US\localization2.resources.dll
+E:\VS\localization\localization2\obj\Debug\zh-CN\localization2.resources.dll
+E:\VS\localization\localization2\obj\Debug\localization2.exe
+E:\VS\localization\localization2\obj\Debug\localization2.pdb
